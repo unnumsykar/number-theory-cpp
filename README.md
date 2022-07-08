@@ -1,1 +1,1 @@
-number theory problems implemented in c++
+Number theory problems implemented in c++
